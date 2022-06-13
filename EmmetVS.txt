@@ -1,3 +1,6 @@
 1. ! and enter -> it will give the raw index.html
 2. link and enter
 3. script:src and enter
+4. cdnjs.com -> font awesome or different style sheets
+5. fonts.google.com
+6. .container for div
