@@ -4,3 +4,5 @@
 4. cdnjs.com -> font awesome or different style sheets
 5. fonts.google.com
 6. .container for div
+7. .(name of container) in dev
+8. .progress#progress with give class as progress and #progress will give id as progress
