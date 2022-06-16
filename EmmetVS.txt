@@ -6,3 +6,5 @@
 6. .container for div
 7. .(name of container) in dev
 8. .progress#progress with give class as progress and #progress will give id as progress
+9. button#id
+10. for icon -> .i.fas.fa-times
